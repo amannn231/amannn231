@@ -1,6 +1,6 @@
 <div id="header" align="centre">
   <!-- Rose -->
-  <img src="https://media.giphy.com/media/3oriOhJYpo8U5BU7cc/giphy.gif" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy-downsized-large.gif" width="100" height="100"/>
   
   <!-- How to connect with me -->
   <div id="badges">
