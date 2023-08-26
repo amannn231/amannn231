@@ -4,7 +4,7 @@
   
   <!-- How to connect with me -->
   <div id="badges">
-    <a href="https://www.linkedin.com/in/saurabhanilpandey/">
+    <a href="https://www.linkedin.com/in/aman-maurya-3ba255237">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/saurabh_a_p">
