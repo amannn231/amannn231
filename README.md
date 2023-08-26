@@ -1,17 +1,17 @@
-<div id="header" align="center">
-  <!-- Yoda -->
-  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100" height="100"/>
+<div id="header" align="centre">
+  <!-- Rose -->
+  <img src="https://media.giphy.com/media/3oriOhJYpo8U5BU7cc/giphy.gif" width="100" height="100"/>
   
   <!-- How to connect with me -->
   <div id="badges">
     <a href="https://www.linkedin.com/in/aman-maurya-3ba255237">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/saurabh_a_p">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://instagram.com/planners07?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
+      <img src="https://img.shields.io/badge/Instagram-%23CE3171" alt="Instagram Badge"/>
     </a>
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=saurabhanilpandey&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=amannn231&style=plastic&color=brightgreen" alt=""/>
   </div>
   
   <!-- Greetings -->
