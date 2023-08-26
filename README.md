@@ -5,7 +5,7 @@
   <!-- How to connect with me -->
   <div id="badges">
     <a href="https://www.linkedin.com/in/aman-maurya-3ba255237">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"/>
     </a>
     <a href="https://instagram.com/planners07?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
       <img src="https://img.shields.io/badge/Instagram-%23CE3171" alt="Instagram Badge"/>
