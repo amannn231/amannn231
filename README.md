@@ -1,26 +1,9 @@
-# Hey, I'm Aman! 👨‍💻✨
+# Hey there! 👋 I'm Aman
 
-[![GitHub followers](https://img.shields.io/github/followers/your-github-profile?label=Follow%20Me&style=social)](https://github.com/amannn231) 
-[![LinkedIn](https://img.shields.io/badge/-Aman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/your-channel-link)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=F76868&center=true&vCenter=true&width=450&lines=App+Developer+%7C+AI+Enthusiast;Building+with+Flutter+and+Python;Tech+for+the+Future+%F0%9F%A7%AA+%7C+Final+Year+Student)
 
----
-
-## 🌟 About Me
-
-I'm **Aman**, a 22-year-old tech enthusiast on a mission to make technology more accessible and fun! I'm a final-year **B.Voc in Computer Application** student and aspiring **App Developer** exploring the world of **Flutter** and **AI**. Whether it's building educational games or developing a YouTube channel, I'm always eager to learn and grow. 💡
-
-## ⚡ Quick Facts:
-- 🎓 Final year student, aiming to graduate soon!
-- 🚀 Currently working on **Flutter** projects and learning **backend** development.
-- 🎥 Creating content for **AI news** on YouTube & Instagram.
-- 🎮 Building a **Python-based educational game** as my major project.
-- 🧑‍🎤 Always up for a new challenge, especially in tech and fitness!
-
----
-
-## 🛠️ My Tech Stack:
-
+🚀 **Tech Stack**:
+  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -29,30 +12,27 @@ I'm **Aman**, a 22-year-old tech enthusiast on a mission to make technology more
 
 ---
 
-## 🔭 What I’m Working On:
-- 🚧 **Flutter Blog App**: Building an awesome blog platform to help others share their thoughts.
-- 🧠 **AI News Channel**: Bringing the latest in AI developments to a wider audience on YouTube & Instagram.
-- 🎮 **Educational Game**: Combining tech and education with a Python/Flutter game to make learning more fun!
-- 🏋️‍♂️ **Fitness Journey**: From skinny to fit—working on becoming my best self physically and mentally.
+### 🚧 Current Projects:
+- **Blog App**: Flutter-based blog platform.
+- **AI News Channel**: Bringing the latest AI insights on YouTube & Instagram.
+- **Educational Game**: Using Python and Flutter for an interactive learning game.
 
 ---
 
-## 🎯 My Goals:
-- 🏆 **Become a full-fledged App Developer** by mastering Flutter and backend integration.
-- 📚 **Dive deeper into AI explainability**, especially in domains like healthcare and finance.
-- 💡 Create **quick and easy-to-edit videos** that bring real value to my audience.
+### 💡 Future Goals:
+- Master **Flutter** and become a full-stack app developer.
+- Explore **AI explainability** in healthcare & finance.
+- Grow my YouTube channel with value-packed tech content.
 
 ---
 
-## 🎨 Fun Fact About Me:
-When I'm not coding, you'll find me learning the **piano**, exploring music, or leveling up my fitness game! 🎹💪
+### 🌟 Fun Fact:
+- 🎹 Learning piano in my spare time & leveling up my fitness game 🏋️‍♂️!
 
 ---
 
-## 💬 Connect with Me:
+### 📫 Let's Connect!
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/amannn231)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-maurya-3ba255237)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/your-channel)
 
-- 🌐 **GitHub:** [github.com/your-github-profile](https://github.com/amannn231)
-- 📹 **YouTube Channel:** [youtube.com/your-channel](https://youtube.com/your-channel)
-- 💼 **LinkedIn:** [linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/aman-maurya-3ba255237)
-
-Let's build something amazing together!
