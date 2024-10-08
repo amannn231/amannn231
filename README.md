@@ -1,6 +1,8 @@
-# Hey there! 👋 I'm Aman
+# Greetings, I'm Aman! ✨
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=F76868&center=true&vCenter=true&width=450&lines=App+Developer+%7C+AI+Enthusiast;Building+with+Flutter+and+Python;Tech+for+the+Future+%F0%9F%A7%AA+%7C+Final+Year+Student)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=DS-Digital&weight=700&size=48&duration=4000&pause=1000&color=F76868&center=true&vCenter=true&width=450&lines=App+Developer+%7C+AI+Enthusiast)
+
+## 🌟 Building with Flutter & Python
 
 🚀 **Tech Stack**:
   
@@ -32,7 +34,7 @@
 ---
 
 ### 📫 Let's Connect!
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/amannn231)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-maurya-3ba255237)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/your-github-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/your-channel)
 
