@@ -1,42 +1,32 @@
-<div id="header" align="centre">
-  <!-- Rose -->
-  <img src="https://media.giphy.com/media/3oriOhJYpo8U5BU7cc/giphy.gif" width="100" height="60"/>
-  
-  <!-- How to connect with me -->
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/aman-maurya-3ba255237">
-      <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://instagram.com/planners07?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
-      <img src="https://img.shields.io/badge/Instagram-%23CE3171" alt="Instagram Badge"/>
-    </a>
-    <br/>
-    <img src="https://komarev.com/ghpvc/?username=amannn231&style=plastic&color=brightgreen" alt=""/>
-  </div>
-  
-  <!-- Greetings -->
-  <h1>
-    Hello, I'm Aman! 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+# Hi, I'm Aman! 👋
 
+I’m a passionate **App Developer** and **Computer Application Student** with a deep interest in **Artificial Intelligence**, **Flutter**, and **Backend Development**. Currently in my final year of Bachelor in Vocation (Computer Application), I'm working on various projects to enhance my skills and build innovative solutions.
 
-### Hi there 👋
+## 🚀 Skills & Technologies:
+- **Languages:** Dart, Python, C++
+- **Frameworks:** Flutter, Django
+- **Tools & Platforms:** Git, Supabase, Firebase, VSCode, GitHub
+- **Other Interests:** AI Explainability in domains like Healthcare and Finance
 
+## 🌱 What I’m Currently Working On:
+- 🔹 Developing a **Flutter Blog App** as part of my final year project
+- 🔹 Creating a **Python-based Educational Game** with Flutter as the frontend and Python for the backend
+- 🔹 Building my **YouTube** and **Instagram AI News Channel**
 
+## 💡 Future Goals:
+- Explore more into **AI Explainability** and its real-world applications
+- Build more projects in **app development** and grow my career in this field
+- Enhance my content creation journey with quick, easy-to-edit videos
 
-<!--
-**amannscharlie/amannscharlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Personal Development:
+- 💻 Expanding my knowledge in **Flutter Development** as I aim to become a proficient app developer
+- 🎹 Learning how to play the piano
+- 💪 Working on my fitness journey
 
-Here are some ideas to get you started:
+## 💼 Connect With Me:
+- **[GitHub Profile](https://github.com/amannn231)** - My repositories and projects
+- **[YouTube Channel](#)** - AI news and insights
+- **[Instagram](https://instagram.com/planners07)** - AI content and daily updates
+- **[LinkedIn](https://www.linkedin.com/in/aman-maurya-3ba255237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)** - Let's connect professionally
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my profile! Feel free to check out my repositories or get in touch.
