@@ -1,6 +1,6 @@
 # Greetings, I'm Aman! ✨
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=DS-Digital&weight=700&size=48&duration=4000&pause=1000&color=F76868&center=true&vCenter=true&width=450&lines=App+Developer+%7C+AI+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=F76868&center=true&vCenter=true&width=450&lines=App+Developer+%7C+AI+Enthusiast;Building+with+Flutter+and+Python;Tech+for+the+Future+%F0%9F%A7%AA+%7C+Final+Year+Student)
 
 ## 🌟 Building with Flutter & Python
 
