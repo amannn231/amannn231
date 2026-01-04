@@ -9,7 +9,7 @@
 `Flutter` `Dart` `Firebase` `C++` `Java` `Python` `Git` `MySQL`
 
 ### 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=amannn231&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=amannn231&show_icons=true&theme=radical&cache_seconds=1800)
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN) 
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:amannn231@gmail.com)
