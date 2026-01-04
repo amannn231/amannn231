@@ -1,40 +1,16 @@
-Hey, I'm Aman! ✨
+# Hey, I'm Aman! 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=F76868&center=true&vCenter=true&width=450&lines=App+Developer+%7C+AI+Enthusiast;Building+with+Flutter+and+Python;Tech+for+the+Future+%F0%9F%A7%AA+%7C+Final+Year+Student)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F76868&center=true&vCenter=true&width=400&lines=Flutter+Developer;Aspiring+Software+Engineer)
 
-## 🌟 Building with Flutter & Python
+### 🚀 About Me
+🎓 Bvoc.CA Graduate | 💻 Flutter Developer | 🌱 Always Learning
 
-🚀 **Tech Stack**:
-  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+### 🛠️ Tech Stack
+`Flutter` `Dart` `Firebase` `C++` `Java` `Python` `Git` `MySQL`
 
----
+### 📊 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=amannn231&show_icons=true&theme=radical)
 
-### 🚧 Current Projects:
-- **Blog App**: Flutter-based blog platform.
-- **AI News Channel**: Bringing the latest AI insights on YouTube & Instagram.
-- **Educational Game**: Using Python and Flutter for an interactive learning game.
-
----
-
-### 💡 Future Goals:
-- Master **Flutter** and become a full-stack app developer.
-- Explore **AI explainability** in healthcare & finance.
-- Grow my YouTube channel with value-packed tech content.
-
----
-
-### 🌟 Fun Fact:
-- 🎹 Learning piano in my spare time & leveling up my fitness game 🏋️‍♂️!
-
----
-
-### 📫 Let's Connect!
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/your-github-profile)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/your-channel)
-
+### 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN) 
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:amannn231@gmail.com)
